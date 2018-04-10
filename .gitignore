@@ -1,2 +1,6 @@
-./out*
+out/*
+src/Test*
 .idea*
+./.idea*
+*.class
+.DS_Store

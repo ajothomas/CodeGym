@@ -1,4 +1,0 @@
-hello.c
-hello_x.cpp
-hello_x1.cpp
-hello_y.cs

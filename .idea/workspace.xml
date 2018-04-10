@@ -2,160 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36cb3b06-7e55-4886-81dc-062a637217e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Amazon/LRUCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Amazon/Matrix90.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Amazon/RectangleOverlap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Amazon/TwoSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Arrays/ArrayRotation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Arrays/KthSmallestNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Arrays/MaxAreaOfIsland.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Arrays/MaximumSubarray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Arrays/NumIslands.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Arrays/OddEvenPositionDifference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Backtracking/AllPermString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Backtracking/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CollectionsEx/General.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CollectionsEx/PQExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CollectionsEx/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CollectionsEx/SortMapByValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DP/CoinChange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DP/Fibonacci.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DP/Knapsack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DP/LongestIncreasingPath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DP/NumUniquePaths.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DP/SubsetSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DivideConquer/power.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Graph2/CheckCycle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Graph2/GraphImplementation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Graph2/MyGraph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Graph2/Prims.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Graph2/TPSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphProblems/BasicsAndTraversal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphProblems/DijstrasImp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphProblems/TopologicalSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LinkedList/AddingTwoLists.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LinkedList/DoublyLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListSet2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LinkedList/MergeSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LinkedList/ReOrderList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Maps/LFUCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Maps/MinMaxProblem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MathProblems/AdditionWithoutOps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MathProblems/NextPermutation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Misc/CupCakes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Misc/ThreeSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MultiThreading/SyncExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MultiThreading/SyncTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Searching/BinarySearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Searching/PairClosestToZero.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Searching/SearchingRotatedArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sorting/HeapSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StackQueueHeap/BinaryHeap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StackQueueHeap/InfixExpressionEval.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StackQueueHeap/QueueImplementation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Strings/ComparisionWithBackspace.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Strings/MininumWindow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Strings/StringMultiply.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Strings/WordBreakProblem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Strings/WordsFromPhoneDigits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tree/BoundaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tree/CheckSubtree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tree/MorrisTraversal.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/RecursionProblemsSet1.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Arrays/KClosestPoints.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Arrays/KClosestPoints.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Arrays/MaxSubarraySum.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Arrays/MaxSubarraySum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Backtracking/MColoringProblem.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Backtracking/MColoringProblem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Backtracking/RatInAMaze.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Backtracking/RatInAMaze.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Backtracking/Sudoku.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Backtracking/Sudoku.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/CollectionsEx/SlidingWindow.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/CollectionsEx/SlidingWindow.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/DP/LongestPalindromicSubsequence.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/DP/LongestPalindromicSubsequence.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/DP/LongestPalindromicSubstring.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/DP/LongestPalindromicSubstring.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/DP/MinCostPath.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/DP/MinCostPath.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/DP/Staircase.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/DP/Staircase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/BillPughSingleton$1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/BillPughSingleton$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/BillPughSingleton$SingletonHelper.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/BillPughSingleton$SingletonHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/BillPughSingleton.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/BillPughSingleton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/SingletonClass_1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/SingletonClass_1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/SingletonClass_2.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/SingletonClass_2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/SingletonClass_3.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/SingletonClass_3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/Singleton_1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/DesignPatterns/Singleton_1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/GraphProblems/Prims1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/GraphProblems/Prims1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/CloningLinkedListRandomPointer.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/CloningLinkedListRandomPointer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/LinkedListSet1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/LinkedListSet1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/MiscSet1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/MiscSet1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/Node.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/NodeWithRand.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/NodeWithRand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/Nurikabe.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/Nurikabe.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/SortedInsert.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/LinkedList/SortedInsert.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Maps/LRUCache.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Maps/LRUCache.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Maps/LRUCache2.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Maps/LRUCache2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Maps/MapImp.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Maps/MapImp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Maps/MyEntry.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Maps/MyEntry.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Maps/MyMap.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Maps/MyMap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Maps/Node.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Maps/Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Matrix/MatrixRotation90.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Matrix/MatrixRotation90.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Misc/LongestCompoundWord$1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Misc/LongestCompoundWord$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Misc/LongestCompoundWord.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Misc/LongestCompoundWord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Misc/Point.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Misc/Point.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Misc/RectangleOverlap.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Misc/RectangleOverlap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Recursion/GreyCodeN.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Recursion/GreyCodeN.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/RecursionProblemsSet1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/RecursionProblemsSet1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Sorting/BubbleSort.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Sorting/BubbleSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Sorting/InsertionSort.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Sorting/InsertionSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Sorting/SelectionSort.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Sorting/SelectionSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Tree/NAryExample.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Tree/NAryExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Tree/NaryNode.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Tree/NaryNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Tree/Node.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Tree/Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Tree/TreeEx1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Tree/TreeEx1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/TreeNode_1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/TreeNode_1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/TreeSet1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/TreeSet1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Tries/LongestContactenatedWord.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Tries/LongestContactenatedWord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Tries/SampleTrie.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Tries/SampleTrie.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/Tries/TrieNode.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/Tries/TrieNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/Arrays/Arrays_1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/Arrays/Arrays_1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/CollectionsEx/MyComp.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/CollectionsEx/MyComp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/CollectionsEx/TreeMapPractise.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/CollectionsEx/TreeMapPractise.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/DP/LongestIncreasingSubsequence.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/DP/LongestIncreasingSubsequence.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/ExceptionHandling/ExceptionTest.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/ExceptionHandling/ExceptionTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/ExceptionHandling/MyException.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/ExceptionHandling/MyException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/GraphProblems/GraphImplementation.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/GraphProblems/GraphImplementation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/GraphProblems/MyGraph.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/GraphProblems/MyGraph.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/JavaMisc/Day.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/JavaMisc/Day.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/JavaMisc/EnumExample$1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/JavaMisc/EnumExample$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/JavaMisc/EnumExample.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/JavaMisc/EnumExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/JavaMisc/GarbageCollection.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/JavaMisc/GarbageCollection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/Misc/Test.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/Misc/Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/MultiThreading/MultiThreadTest.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/MultiThreading/MultiThreadTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/MultiThreading/RunnableExample.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/MultiThreading/RunnableExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/MultiThreading/ThreadExample.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/MultiThreading/ThreadExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/Sorting/MergeSort.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/Sorting/MergeSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/Sorting/Quicksort.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/Sorting/Quicksort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/StackQueueHeap/MyStack.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/StackQueueHeap/MyStack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/StackQueueHeap/StackImplementation1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/StackQueueHeap/StackImplementation1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/StackQueueHeap/StackUsage.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/StackQueueHeap/StackUsage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/AllPermutations.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/AllPermutations.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/ApproximateMatching.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/ApproximateMatching.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/MyStringCompare.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/MyStringCompare.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/ReadingComments.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/ReadingComments.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/String_Set1.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/String_Set1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/String_Set2.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/String_Set2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/TimeDifference.class" afterPath="$PROJECT_DIR$/out/production/CodingPractise/src/Strings/TimeDifference.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Arrays/Arrays_1.java" afterPath="$PROJECT_DIR$/src/Arrays/Arrays_1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Backtracking/RatInAMaze.java" afterPath="$PROJECT_DIR$/src/Backtracking/RatInAMaze.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CollectionsEx/TreeMapPractise.java" afterPath="$PROJECT_DIR$/src/CollectionsEx/TreeMapPractise.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DP/LongestIncreasingSubsequence.java" afterPath="$PROJECT_DIR$/src/DP/LongestIncreasingSubsequence.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DP/MinCostPath.java" afterPath="$PROJECT_DIR$/src/DP/MinCostPath.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaMisc/EnumExample.java" afterPath="$PROJECT_DIR$/src/JavaMisc/EnumExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LinkedList/LinkedListSet1.java" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListSet1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Maps/LRUCache.java" afterPath="$PROJECT_DIR$/src/Maps/LRUCache.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MultiThreading/MultiThreadTest.java" afterPath="$PROJECT_DIR$/src/MultiThreading/MultiThreadTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Sorting/MergeSort.java" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Sorting/Quicksort.java" afterPath="$PROJECT_DIR$/src/Sorting/Quicksort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tree/TreeEx1.java" afterPath="$PROJECT_DIR$/src/Tree/TreeEx1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tries/SampleTrie.java" afterPath="$PROJECT_DIR$/src/Tries/SampleTrie.java" />
     </list>
     <ignored path="CodingPractise.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -227,21 +75,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Sorting/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.44622424">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="graphInput.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Graph2/graphInput.txt">
+      <file leaf-file-name="MergeSortTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/MergeSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="45" column="45" selection-start-line="40" selection-start-column="4" selection-end-line="45" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -287,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DP/LongestIncreasingSubsequence.java" />
         <option value="$PROJECT_DIR$/src/StackQueueHeap/InfixExpressionEval.java" />
         <option value="$PROJECT_DIR$/src/CollectionsEx/Solution.java" />
         <option value="$PROJECT_DIR$/src/Files/names.txt" />
@@ -337,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/Tree/BoundaryTree.java" />
         <option value="$PROJECT_DIR$/src/Sorting/Quicksort.java" />
         <option value="$PROJECT_DIR$/src/Backtracking/RatInAMaze.java" />
+        <option value="$PROJECT_DIR$/src/Test/MergeSortTest.java" />
         <option value="$PROJECT_DIR$/src/Sorting/MergeSort.java" />
       </list>
     </option>
@@ -370,6 +218,53 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="CodingPractise">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="CodingPractise">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="CodingPractise">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -438,18 +333,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -467,47 +351,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayRotation">
-    <configuration default="false" name="MissingWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Strings.MissingWords" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CodingPractise" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="BoundaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Tree.BoundaryTree" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CodingPractise" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MergeSort">
     <configuration default="false" name="Quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -556,6 +400,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Arrays.ArrayRotation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CodingPractise" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MergeSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test.MergeSortTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CodingPractise" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="src.Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="src.Sorting.MergeSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -870,19 +754,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MissingWords" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BoundaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Quicksort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.AllPermString" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ArrayRotation" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Quicksort" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AllPermString" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ArrayRotation" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MergeSortTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MergeSort" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ArrayRotation" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AllPermString" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Quicksort" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BoundaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MissingWords" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MergeSort" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MergeSortTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ArrayRotation" />
+        <item index="3" class="java.lang.String" itemvalue="Application.AllPermString" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Quicksort" />
       </list>
     </recent_temporary>
   </component>
@@ -919,7 +803,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -928,11 +812,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33948863" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33948863" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32719547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1736672" sideWeight="0.7855114" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -943,6 +826,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1380,18 +1264,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorting/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/Graph2/graphInput.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.13422818">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph2/graphInput.txt">
+    <entry file="file://$PROJECT_DIR$/src/Test/MergeSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="45" column="45" selection-start-line="40" selection-start-column="4" selection-end-line="45" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sorting/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44622424">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
