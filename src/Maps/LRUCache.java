@@ -1,103 +1,12 @@
 package Maps;
 
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 /**
  * Created by ajothomas on 3/16/17.
  */
-/*
-
-class Node{
-    int value;
-    Node next;
-    Node prev;
-
-    Node(int value){
-        this.value = value;
-        this.next = null;
-        this.prev = null;
-    }
-}
-
-class LRUCacheStruct {
-    int cacheSize;
-    HashMap cacheMap;
-    Node head;
-    Node tail;
-
-    LRUCacheStruct(int cacheSize){
-        this.cacheSize = cacheSize;
-        cacheMap = new HashMap<Integer,Node>();
-        this.head = null;
-        this.tail = null;
-    }
-
-    void set(int value){
-       if(!cacheMap.containsKey(value)){
-           if(cacheSize == cacheMap.size()){
-               Node temp = new Node(value);
-               temp.next = head;
-               temp.prev = null;
-
-               head.prev = temp;
-               head = temp;
-               cacheMap.put(value, head);
-
-               Node temp2 = tail.prev;
-
-               temp2.next = null;
-               tail.prev = null;
-               cacheMap.remove(tail.value);
-               tail = temp2;
-           }
-           else {
-               Node temp = new Node(value);
-               temp.next = head;
-               temp.prev = null;
-
-               head.prev = temp;
-               head = temp;
-               cacheMap.put(value, head);
-           }
-
-       }
-    }
-
-    int get(int value){
-        if(cacheMap.containsKey(value)){
-            Node temp = (Node)cacheMap.get(value);
-            if(temp==head)
-                return value;
-            if(temp==tail){
-                Node prevNode = temp.prev;
-                prevNode.next = null;
-
-                temp.prev = null;
-                temp.next = head;
-                head.prev = temp;
-                head = temp;
-                return value;
-            }
-
-            Node prevNode = temp.prev;
-            Node nextNode = temp.next;
-
-            prevNode.next = nextNode;
-            nextNode.prev = prevNode;
-
-            temp.prev = null;
-            temp.next = head;
-            head.prev = temp;
-            head = temp;
-
-            return value;
-        }
-        else
-            return -1;
-    }
-}
-*/
 
 class Node {
     int data;
@@ -112,7 +21,7 @@ class Node {
 }
 
 public class LRUCache {
-    HashMap<Integer, Node> map;
+    Map<Integer, Node> map;
     int size;
     Node head;
     Node tail;
@@ -131,6 +40,7 @@ public class LRUCache {
         }
         else {
             curr.next = head;
+            head.prev = curr;
             head = curr;
         }
     }

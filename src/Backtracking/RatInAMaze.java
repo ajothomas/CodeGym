@@ -31,9 +31,7 @@ public class RatInAMaze {
         }
         if (checkCell(arr, i, j)) {
             sol[i][j] = 1;
-            if (ratMazeUtil(arr, sol, i + 1, j))
-                return true;
-            if (ratMazeUtil(arr, sol, i, j + 1))
+            if (ratMazeUtil(arr, sol, i + 1, j) || ratMazeUtil(arr, sol, i, j + 1))
                 return true;
             sol[i][j] = 0;
             return false;

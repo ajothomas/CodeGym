@@ -21,14 +21,17 @@ class Node {
 
 public class LinkedListSet1 {
 
+    // insert a node at the end of the list
     static Node insertEnd(Node head, int data) {
         Node temp = head;
-        if (temp != null)
+        if (temp.next != null) {
             temp = temp.next;
-        temp = new Node(data);
+        }
+        temp.next = new Node(data);
         return head;
     }
 
+    // Insert an element in the beginning of a linked list
     static Node insertBeginning(Node head, int data) {
         Node temp = new Node(data);
         if (head != null)
@@ -37,6 +40,7 @@ public class LinkedListSet1 {
         return head;
     }
 
+    // reversing a linked list
     static Node reverseList(Node head) {
         Node curr = head;
         Node prev = null;
@@ -52,6 +56,7 @@ public class LinkedListSet1 {
         return curr;
     }
 
+    // find the middle element
     static Node findMiddle(Node head) {
         Node fast = head;
         Node slow = head;
@@ -63,6 +68,29 @@ public class LinkedListSet1 {
         return slow;
     }
 
+    // pairwise swap
+    static Node pairwiseSwap(Node head) {
+        Node a = head;
+        Node b = null;
+        Node c = null;
+        Node prev    = null;
+        while(a.next!=null) {
+            b = a.next;
+            c = b.next;
+            if(a==head) {
+                head = b;
+            }
+            if(prev!=null) {
+                prev.next = b;
+            }
+            b.next = a;
+            a.next = c;
+            prev = a;
+            a = c;
+        }
+        return head;
+    }
+
     static void printList(Node head) {
         Node temp = head;
         System.out.print("\nLinked List :: ");
@@ -70,6 +98,21 @@ public class LinkedListSet1 {
             System.out.print(temp.data + ", ");
             temp = temp.next;
         }
+    }
+
+    // remove duplicates
+    public static Node removeDuplicates(Node head) {
+        Node temp = head;
+        while(temp.next!=null) {
+            if(temp.data==temp.next.data){
+                temp.next = temp.next.next;
+            }
+            else {
+                temp = temp.next;
+            }
+        }
+
+        return head;
     }
 
     static Node reverseSecondHalf(Node head) {
@@ -126,13 +169,18 @@ public class LinkedListSet1 {
         printList(head1);
         head1 = reverseList(head1);
 
+        // removing duplicates
+
+
         //finding the middle of a linked list
         System.out.print("\n*** Finding the middle of linked list ***");
         System.out.print("\nMiddle element : " + findMiddle(head1));
 
         //reversing second half of a linked list
+        /*
         System.out.print("\n*** Reversing the second half of linked list ***");
         head1 = reverseSecondHalf(head1);
         printList(head1);
+        */
     }
 }

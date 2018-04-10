@@ -40,5 +40,7 @@ public class EnumExample {
         firstDay.tellItLikeItIs();
         EnumExample seventhDay = new EnumExample(Day.SUNDAY);
         seventhDay.tellItLikeItIs();
+
+        System.out.println(Day.MONDAY);
     }
 }

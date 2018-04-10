@@ -2,6 +2,7 @@ package Tries;
 
 import sun.text.normalizer.Trie;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
@@ -10,48 +11,50 @@ import java.util.HashMap;
 
 class TrieNode{
     char value;
-    HashMap <Character, TrieNode> children;
+    HashMap <Character,TrieNode> children;
     boolean isCompleteWord;
 
     TrieNode(char value){
         this.value = value;
-        this.children = new HashMap<Character, TrieNode>();
+        this.children = new HashMap<>();
         this.isCompleteWord = false;
     }
-
-    public void putNode(char c){
-        TrieNode temp = new TrieNode(c);
-        this.children.put(c, temp);
+    public HashMap<Character, TrieNode> getChildren() {
+        return this.children;
     }
 
-    public TrieNode getNode(char c){
-        return (TrieNode) children.get(c);
-    }
-
-    public boolean checkNode(char c){
-        return  children.containsKey(c);
+    public void put(char c) {
+        children.put(c, new TrieNode(c));
     }
 }
 
 public class SampleTrie {
     public static void insert(TrieNode head, String word){
-
         TrieNode crawl = head;
 
-        for(int j=0; j<word.length(); j++){
-            char currChar = word.charAt(j);
-            if(crawl.checkNode(currChar))
-                crawl = crawl.getNode(currChar);
+
+        int wordLength = word.length();
+        for(int i=0; i<wordLength; i++) {
+            // extract current character
+            char c = word.charAt(i);
+            HashMap<Character, TrieNode> children = crawl.getChildren();
+            // get the trienode corresponding to that
+            if(children.containsKey(c)) {
+                crawl = children.get(c);
+            }
             else {
-                crawl.putNode(currChar);
+                TrieNode child = new TrieNode(c);
+                children.put(c,child);
+                crawl = children.get(c);
             }
         }
+        // when the world is completed
+        crawl.isCompleteWord = true;
     }
 
     public static void main(String args[]){
         TrieNode head = new TrieNode('*');
         String arr[] = {"cat","cats","dog","cart","card","cards"};
-
 
 
         for(int i=0; i<arr.length; i++){

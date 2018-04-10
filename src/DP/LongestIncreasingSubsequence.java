@@ -7,7 +7,7 @@ public class LongestIncreasingSubsequence {
     static void bottomsUp(int arr[]){
         int length = arr.length;
         int minLenArr[] = new int[length];
-        int maxLength = -1;
+        int maxLength = Integer.MIN_VALUE;
 
         // initial default length of 1
         for(int i=0; i<length; i++)
@@ -20,7 +20,6 @@ public class LongestIncreasingSubsequence {
                 }
             }
         }
-
 
         for ( int i = 0; i < minLenArr.length; i++ ){
             System.out.print(minLenArr[i]+",");

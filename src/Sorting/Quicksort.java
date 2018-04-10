@@ -4,11 +4,13 @@ package src.Sorting;
  * Created by ajothomas on 3/19/17.
  */
 public class Quicksort {
+
     public static void printArr(int arr[]){
         for(int element:arr){
             System.out.print(element+",");
         }
     }
+
     public static int quickSort(int arr[], int left, int right){
         int pivot = arr[right+1];
         int i=left, j=right;
@@ -38,7 +40,7 @@ public class Quicksort {
         }
     }
     public static void main(String args[]){
-        int arr[] = {11,3,4,5,1,9,10,12};
+        int arr[] = {2,1};
         System.out.println("\nInitial Array");
         printArr(arr);
         quickSortUtil(arr, 0, arr.length-1);

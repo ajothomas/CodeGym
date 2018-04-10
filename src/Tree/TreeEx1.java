@@ -28,7 +28,7 @@ public class TreeEx1 {
         }
     }
 
-    public static Node insert (Node root, int data){
+    public static Node insert (Node root, int data) {
         if(root==null){
             root = new Node(data);
         }
@@ -91,6 +91,16 @@ public class TreeEx1 {
         }
     }
 
+    public static int countLeaf(Node root) {
+        if(root!=null) {
+            if(root.left==null && root.right==null)
+                return 1;
+            else
+                return countLeaf(root.left)+countLeaf(root.right);
+        }
+        return 0;
+    }
+
     public static int height(Node root){
         if(root!=null)
             return Math.max(height(root.left), height(root.left))+1;
@@ -129,7 +139,7 @@ public class TreeEx1 {
     }
 
     public static int diameter(Node root) {
-        if(root!=null){
+        if(root!=null) {
             int leftHeight = height(root.left);
             int rightHeight = height(root.left);
             int leftDiameter = diameter(root.left);

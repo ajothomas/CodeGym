@@ -41,12 +41,14 @@ public class MinCostPath {
 
     public static void main(String args[]) {
 
-        int cost[][] = {{1, 2, 3},
-                {4, 8, 2},
-                {1, 5, 3}};
+        int cost[][] = {{1, 3, 1},
+                {1, 5, 1},
+                {4, 2, 1}};
+
+
         int rows = cost.length - 1;
         int cols = cost[0].length - 1;
         System.out.println("Min cost path : " + minCostPathUtil2(cost));
-        System.out.println("Min : " + MinOfThree(4, 5, 3));
+        System.out.println("Min : " + MinOfThree(1,1, 1));
     }
 }

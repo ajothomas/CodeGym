@@ -12,6 +12,8 @@ class MyComp implements Comparator<Integer>{
     }
 
 }
+
+
 public class TreeMapPractise {
 
     public static void main(String args[]){
@@ -28,29 +30,30 @@ public class TreeMapPractise {
         Set set = tMAP.entrySet();
         Iterator it = set.iterator();
         while(it.hasNext()){
-            Map.Entry entry = (Map.Entry)it.next();
-            System.out.println("Key : "+entry.getKey()+", Value : "+entry.getValue());
+             
+           // System.out.println("Key : "+entry.getKey()+", Value : "+entry.getValue());
         }
 
-        TreeMap tMAP2 = new TreeMap<Integer, String>(new MyComp());
-        tMAP2.put(1,"One");
-        tMAP2.put(2,"Two");
-        tMAP2.put(3,"Three");
-        tMAP2.put(4,"Four");
-        tMAP2.put(8,"Eight");
-        tMAP2.put(6,"Six");
-        tMAP2.put(5,"Five");
-        tMAP2.put(7,"Seven");
-
-        Set set1 = tMAP2.entrySet();
-        Iterator it1 = set1.iterator();
-        System.out.print("\n");
-        while(it1.hasNext()){
-            Map.Entry entry = (Map.Entry)it1.next();
-            System.out.println("Key : "+entry.getKey()+", Value : "+entry.getValue());
-        }
-
-        TreeMap tMAP3 = new TreeMap<Integer, ArrayList<String>>();
+//        TreeMap<Integer, Integer> tMAP2 = new TreeMap<Integer, Integer>(new MyComp1());
+//        tMAP2.put(1,99);
+//        tMAP2.put(2,98);
+//        tMAP2.put(3,99);
+//        tMAP2.put(4,97);
+//        tMAP2.put(8,100);
+//        tMAP2.put(6,1);
+//        tMAP2.put(5,2);
+//        tMAP2.put(7,3);
+//
+//
+//        Set set1 = tMAP2.entrySet();
+//        Iterator it1 = set1.iterator();
+//        System.out.print("\n");
+//        while(it1.hasNext()){
+//            Map.Entry entry = (Map.Entry)it1.next();
+//            System.out.println("Key : "+entry.getKey()+", Value : "+entry.getValue());
+//        }
+//
+//        TreeMap tMAP3 = new TreeMap<Integer, ArrayList<String>>();
 
     }
 }

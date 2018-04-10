@@ -4,6 +4,7 @@ package src.Arrays;
  * Created by ajothomas on 3/20/17.
  */
 public class Arrays_1 {
+    //Maximum difference between two elements such that larger element appears after the smaller number
     public static void minMaxDifference() {
         //int arr[] = {4,3,5,6,7,1,2};
         int arr[] = {6, 1, 7, -1, 3, 5, 9};
